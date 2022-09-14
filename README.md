@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Daoxuanthang
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+B1 : git clone https://github.com/vlmvir/ATK
 
-<!---
-Daoxuanthang/Daoxuanthang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+b2 : cd ATK
+
+B3 : unzip vir.zip
+
+B4 : go run vlm.go -site URL GET/POST
+
+DEMO : go run vlm.go -site xx.com GET
