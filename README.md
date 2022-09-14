@@ -7,3 +7,4 @@ B3 : unzip vir.zip
 B4 : go run vlm.go -site URL GET/POST
 
 DEMO : go run vlm.go -site xx.com GET
+Ok
